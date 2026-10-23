@@ -1,0 +1,6 @@
+src/AverageFromFile.java
+src/LucasNumbers.java
+src/PlausiblePolygon.java
+src/RangeTotals.java
+src/TemperatureReport.java
+src/TicTacTally.java
